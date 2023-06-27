@@ -38,11 +38,10 @@ c) Consultas a la base de datos de la aplicación:
 - Manipulación de columnas requeridas desde diferentes tablas para presentar la información solicitada.
 - Utilización de JOIN para relacionar la información de distintas tablas.
 - Utilización de WHERE para filtrar la información requerida por la aplicación.
-- Utilización de cláusulas de orden
-
-amiento para presentar la información.
+- Utilización de cláusulas de ordenamiento para presentar la información.
 - Utilización de cláusulas de agrupación de información para obtener datos agregados.
-- Ruta: `portafolio\src\main\java\cl\unab\portafolio\repositorioDAO`
+
+Ver en Ruta: `portafolio\src\main\java\cl\unab\portafolio\repositorioDAO`
 
 d) Spring MVC:
 - Utilización de Controllers.
