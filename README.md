@@ -2,7 +2,7 @@ EL PRESENTE PROYECTO SE GUARDA EN EN EL SIGUIENTE REPO GITHUB https://github.com
 
 - INFORMACION Y DESCRIPCION DETALLADA<br>
 	Nombre de proyecto:<br>
-        Mi Portafolio web, en este proyecto se trata de disponibilizar un portafolio web para su vista en internet a clientes, el proyecto tiene una interfaz de administración que administra la información del portafolio, el cual viene a solucionar el constante cambio de los contenidos que el profesional aprende y desea incluir en su portafolio de trabajo. 
+        Mi Portafolio web, en este proyecto se trata de disponibilizar un portafolio web para su vista en internet a clientes, el proyecto tiene una interfaz de administración que administra la información del portafolio, el cual viene a solucionar el constante cambio de los contenidos que el profesional aprende y desea incluir en su portafolio de trabajo.<br> 
 	Un sólido portafolio es crucial para tener una carrera de éxito como programador, este portafolio en línea muestra mis habilidades técnicas y lo aprendido en este bootcamp, con el fin de conseguir trabajo y atraer a clientes potenciales.
 
 - INSTRUCCIONES DE INSTALACION
@@ -20,16 +20,14 @@ Pasos de instalación del aplicativo en servidor tomcat:
 
 - CRITERIOS E IMPLEMENTACIONES TECNICAS
 
- 	a) Sitio web (HTML, CSS y JS) 
+ 	a) Sitio web (HTML, CSS y JS)<br>
+            Utilización de tags HTML, estilos y responsividad: portafolio\src\main\webapp\index.jsp <br>
+            Utilización de Bootstrap: portafolio\src\main\webapp\index.jsp 
 
-• Utilización de tags HTML, estilos y responsividad: portafolio\src\main\webapp\index.jsp 
-• Utilización de Bootstrap: portafolio\src\main\webapp\index.jsp 
-
-
-b) Algoritmia de cálculo y manipulación de archivos de texto: 
-
-• Utilización general del lenguaje, sintaxis, selección de tipos de datos, sentencias lógicas, expresiones, operaciones, comparaciones: -portafolio\src\main\webapp\assets\favicon.ico
--portafolio\src\main\java.
+        b) Algoritmia de cálculo y manipulación de archivos de texto:<br> 
+            Utilización general del lenguaje, sintaxis, selección de tipos de datos, sentencias lógicas, expresiones, operaciones, comparaciones:<br> 
+                -portafolio\src\main\webapp\assets\favicon.ico<br>
+                -portafolio\src\main\java.
 
 
 • Utilización de sentencias repetitivas: portafolio\src\main\java\cl\unab\portafolio\servicio\ExperienciaServicioImpl.java 
